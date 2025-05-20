@@ -23,7 +23,7 @@ export default function BusinessCard() {
 VERSION:3.0
 N:Rautenbach;Maunda;;;    
 FN:Maunda Rautenbach 
-TITLE:Group Managing Director
+TITLE:Head of Operations
 ORG:IJG namibia
 EMAIL;type=WORK: maunda@ijg.net
 TEL;type=CELL: +264819583529
